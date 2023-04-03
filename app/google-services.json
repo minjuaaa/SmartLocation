@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "313417949140",
+    "firebase_url": "https://fddfddf-b22d1-default-rtdb.firebaseio.com",
+    "project_id": "fddfddf-b22d1",
+    "storage_bucket": "fddfddf-b22d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313417949140:android:983d040fc7efd94acec041",
+        "android_client_info": {
+          "package_name": "com.location.daku.myloctest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313417949140-ci25p59qugs7k5thriqrl05v3p5aqnac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXYzE9l8d2vt-He1BYZ7bCqILgkxQkb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313417949140-ci25p59qugs7k5thriqrl05v3p5aqnac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
